@@ -1,7 +1,7 @@
 # FencingQueue-TelegramBot
 
 A Telegram Bot used to automate the queue process for those waiting for a fencing strip. 
-Written in C++, using the tgbot-cpp library. 
+Written in C++, using the [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp) library. 
 
 ## Goals
 
